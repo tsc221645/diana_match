@@ -2,6 +2,12 @@
 
 Activación de marca interactiva para Snacks Diana: quiz de personalidad, resultado compartible y dashboard de presentación.
 
+## Algunas capturas de la aplicacion
+![ejemplo resultado](image.png)
+![ejemplo resultado](image-1.png)
+![home](image-2.png)
+![cuestionario](image-3.png)
+
 ## Ejecutar
 
 ```bash
